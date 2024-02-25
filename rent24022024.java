@@ -14,8 +14,8 @@ public class rent24022024 {
 		
 		boolean status=false;
 		String url="https://www.daft.ie/";
-		String email="kolipakabunty1998@gmail.com";
-		String password="Bunty@1998";
+		String email="kingkohli98@gmail.com";
+		String password="test@89898";
 		
 		By signin_loc=By.xpath("//a[contains(text(),'Sign in')]");
 		By username_loc=By.xpath("//input[contains(@id,'username')]");
