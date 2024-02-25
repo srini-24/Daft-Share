@@ -1,0 +1,1 @@
+Worked on writing code for Daft-Share website in Selenium Java, which allows the users to email landlords/agents for sharing rooms automatically This code was written using Selenium Java Tool, & users can add some filters like the Location, No of min and max Roomates 
